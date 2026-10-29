@@ -9,4 +9,6 @@ Los archivos de configuracion que acaban en un numero indica el numero maximo de
 
 3. Mete a los bots (ejecuta este comando desde otra terminal en la misma maquina o en otra, lo que prefieras): ```supertuxkart --connect-now=IP_SERVIDOR --network-ai=23 --no-graphics```
 
-4. A disfrutar probando si el servidor se suicida o no. Puedes ajustar el numero de bots introducidos en el comando anterior, en `--network-ai=N`
+3.5: **ESPERA A QUE EN LA LISTA DE JUGADORES LOS BOTS APAREZCAN CON PING.** Es por si acaso.
+
+4. A disfrutar probando si el servidor se suicida o no (osea, que ya puedes darle a jugar). Puedes ajustar el numero de bots introducidos en el comando anterior, en `--network-ai=N`
