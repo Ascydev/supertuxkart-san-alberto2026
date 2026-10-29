@@ -5,10 +5,10 @@
 - Organizador/a responsable: [Nombre Legal Aqui] // (No puesto aqui porque se sube a un github publico)
 - Contacto: [Correo Completo Aqui] // (No puesto aqui porque se sube a un github publico)
 - Fecha: Dia de San Alberto
-- Horario: ??:??
-- Lugar: Aula ????
+- Horario: *POR CONFIRMAR*
+- Lugar: Aula *POR CONFIRMAR*
 - Modalidad: Individual
-- Cupo: 23? (POR CONFIRMAR) (El organizador tiene que participar para poder administrar la partida, asi que le resto 1.) MAX: 24
+- Cupo: 23? // (POR CONFIRMAR) (El organizador tiene que participar para poder administrar la partida, asi que le resto 1.) MAX: 24
 - Inscripción: [Enlace al formulario], cierra el [fecha]
 - Coste: 1€
 
