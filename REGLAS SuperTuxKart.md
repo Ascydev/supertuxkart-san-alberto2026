@@ -26,8 +26,8 @@ El torneo se juega en liga todos contra todos.
 
 Solo hay dos fases, y una de ellas ocurrira solo en caso de empate de puntuación entre 2 o mas jugadores.
 
-**Fase normal:** Se jugaran **6 carreras** con **todos los jugadores** y sin ningun bot.
-**Fase de desempate**: Se jugara **UNA carrera** con **solo los jugadores que hayan empatado en puntuación**, y, otra vez, sin ningun bot.
+- **Fase normal:** Se jugaran **6 carreras** con **todos los jugadores** y sin ningun bot.
+- **Fase de desempate**: Se jugara **UNA carrera** con **solo los jugadores que hayan empatado en puntuación**, y, otra vez, sin ningun bot.
 
 Solo habran **tres ganadores**, y seran, *dependiendo de en que fase termine el torneo*:
 - En la fase normal: Los tres que mas puntos tengan tras realizar todas las carreras.
@@ -38,7 +38,7 @@ Solo habran **tres ganadores**, y seran, *dependiendo de en que fase termine el 
 El calculo de la puntuacion depende del puesto en el que haya acabado el jugador. Entrara en una sección u otra.
 Se calcula con porcentajes para que los puntos sean independientes al numero de jugadores que esten jugando.
 #### CALCULO DE SECCIONES DE PUESTOS: `N_de_jugadores * porcentaje = N_de_puestos_que_obtienen_la_puntuacion_asignada`
-#### EJEMPLO: Suponiendo que juegan 21 personas, para S1, `21 * 0.2 = 4.2`, por tanto, los primeros 4 puestos obtendran la puntuacion asignada en S1. Los decimales *siempre* se redondean hacia abajo.
+EJEMPLO: Suponiendo que juegan 21 personas, para S1, `21 * 0.2 = 4.2`, por tanto, los primeros 4 puestos obtendran la puntuacion asignada en S1. Los decimales *siempre* se redondean hacia abajo.
 
 - S1: Primeros 20%: +12 puntos [20%]
 - S2: Siguientes 20%: +11 puntos [40%]
@@ -65,6 +65,5 @@ San Alberto es una fiesta de la facultad: se juega con respeto hacia rivales, á
 - Está prohibido el consumo de alcohol durante las carreras. Vamos, lo que faltaba...
 
 ## PREMIOS, RECLAMACIONES Y CONTACTO
-- Premios: 1.er puesto: [premio]. 2.º puesto: [premio]. [3.er puesto: premio]. Se entregan el [fecha] en el acto de clausura de San Alberto. // ????
 - Decisión final: cualquier situación no prevista en este reglamento la resuelven el organizador/a y la coordinación. Su decisión es inapelable.
-- Contacto: [nombre del organizador/a], [teléfono / correo]. Coordinación general: [nombre], [contacto].
+- Contacto: Si sabes de que va esto, probablemente ya tengas forma de contactarme.
