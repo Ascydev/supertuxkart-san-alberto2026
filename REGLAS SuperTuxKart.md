@@ -62,7 +62,6 @@ con los jugadores que tengan puntuacion empatada y cumplan esos requisitos.
 Existira la posibilidad de que, a elección del organizador, se añadan mas jugadores a esta fase solo para hacer las cosas mas interesantes. Estos jugadores añadidos NO tendran posibilidad de quedar entre los ganadores del torneo. (Por ejemplo: si en la fase de desempate la van a jugar solo 2 jugadores, estaria bien añadir mas jugadores a la partida, incluso aunque estos jugadores añadidos ya no tengan posibilidad de quedar entre los ganadores del torneo.)
 
 
-
 ## CONDUCTA, PUNTUALIDAD Y SANCIONES
 San Alberto es una fiesta de la facultad: se juega con respeto hacia rivales, árbitros y organización.
 
