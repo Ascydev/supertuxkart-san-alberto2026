@@ -8,12 +8,23 @@
 - Horario: *POR CONFIRMAR*
 - Lugar: Aula *POR CONFIRMAR*
 - Modalidad: Individual
-- Cupo: 23? // (POR CONFIRMAR) (El organizador tiene que participar para poder administrar la partida, asi que le resto 1.) MAX: 24
+- Completamente presencial
+- Cupo: 22 (El organizador tiene que participar en el torneo para administrar las partidas, lo cual hace un total maximo de 23 jugadores.)
 - Inscripción: [Enlace al formulario], cierra el [fecha]
 - Coste: 1€
 
+## REQUISITOS IMPORTANTES DE LOS PARTICIPANTES
+
+**Es importantisimo que cada jugador se lleve su propio PC para jugar al juego.** El juego esta disponible para Linux, Windows y MacOS en https://supertuxkart.net/es/Download
+- Por favor, asegurate tambien de que tu juego funciona correctamente antes del torneo (y asi aprovechas para aprenderte los controles básicos).
+- No te preocupes de posibles problemas de conexión que puedan haber el dia del torneo; eso se resolvera en el mismo momento. (Ya sabemos que pueden haber algunos problemas con el firewall, pero sabemos resolverlos).
+
+POSIBLES EXCEPCIONES: Si por lo que sea no tienes ordenador, puede ser que se pueda usar alguno de un aula para jugar, pero NO te lo puedo asegurar con certeza.
+
+Se permite jugar **con mando**.
+
 ## FORMATO DE COMPETICIÓN
-El torneo se juega en liga todos contra todos.
+El torneo se juega en todos contra todos.
 
 Solo hay dos fases, y una de ellas ocurrira solo en caso de empate de puntuación entre 2 o mas jugadores.
 
@@ -23,6 +34,8 @@ Solo hay dos fases, y una de ellas ocurrira solo en caso de empate de puntuació
 Solo habran **tres ganadores**, y seran, *dependiendo de en que fase termine el torneo*:
 - En la fase normal: Los tres que mas puntos tengan tras realizar todas las carreras.
 - En la fase de desempate: Los jugadores que acaben en los primeros puestos.
+
+La partida sera administrada en todo momento por el organizador. El organizador elegira los circuitos a jugar y el numero de vueltas (Normalmente seran 2 o 3 si el circuito es pequeño).
 
 ## PUNTUACIÓN Y DESEMPATE
 
@@ -52,8 +65,8 @@ Pueden participar estudiantes, antiguos alumnos, y profesorado.
 ## CONDUCTA, PUNTUALIDAD Y SANCIONES
 San Alberto es una fiesta de la facultad: se juega con respeto hacia rivales, árbitros y organización.
 
-- Puntualidad: hay 10 minutos de cortesía. Pasado ese tiempo, el jugador que no esté no participara. **Esto incluye tener problemas para ejecutar el juego. Tienes que asegurarte de que podras jugar** ***antes*** **del torneo.**
-- Está prohibido el consumo de alcohol durante las carreras. Vamos, lo que faltaba...
+- Puntualidad: hay 10 minutos de cortesía. Pasado ese tiempo, el jugador que no esté no participara en el torneo. **Esto incluye tener problemas para ejecutar el juego. Tienes que asegurarte de que podras jugar** ***antes*** **del torneo.**
+- Está prohibido el consumo de alcohol durante las carreras. Vamos, lo que me faltaba...
 
 ## PREMIOS, RECLAMACIONES Y CONTACTO
 - Decisión final: cualquier situación no prevista en este reglamento la resuelven el organizador/a y la coordinación. Su decisión es inapelable.
