@@ -1,4 +1,14 @@
-## Hacer network test
+# INFO IMPORTANTE PARA PARTICIPANTES
+
+**Es importantisimo que cada jugador se lleve su propio PC para jugar al juego.** El juego esta disponible para Linux, Windows y MacOS en https://supertuxkart.net/es/Download
+- Por favor, asegurate tambien de que tu juego funciona correctamente antes del torneo (y asi aprovechas para aprenderte los controles básicos).
+- No te preocupes de posibles problemas de conexión que puedan haber el dia del torneo; eso se resolvera en el mismo momento. (Ya sabemos que pueden haber algunos problemas con el firewall, pero sabemos resolverlos).
+
+POSIBLES EXCEPCIONES: Si por lo que sea no tienes ordenador, puede ser que se pueda usar alguno de un aula para jugar, pero NO te lo puedo asegurar con certeza.
+
+Se permite jugar **con mando**.
+
+## Hacer network test (Ignora esto si eres un participante)
 
 1. Abrir servidor: ```supertuxkart --server-config=config_24p.xml --lan-server="San Alberto 2026" --network-console```
 
