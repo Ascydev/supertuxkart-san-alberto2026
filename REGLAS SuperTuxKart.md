@@ -62,7 +62,6 @@ Existira la posibilidad de que, a elección del organizador, se añadan mas juga
 
 
 ## CONDUCTA, PUNTUALIDAD Y SANCIONES
-San Alberto es una fiesta de la facultad: se juega con respeto hacia rivales, árbitros y organización.
 
 - Puntualidad: hay 10 minutos de cortesía. Pasado ese tiempo, el jugador que no esté no participara en el torneo. **Esto incluye tener problemas para ejecutar el juego. Tienes que asegurarte de que podras jugar** ***antes*** **del torneo.**
 - Está prohibido el consumo de alcohol durante las carreras. Vamos, lo que me faltaba...
