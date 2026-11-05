@@ -8,6 +8,13 @@ POSIBLES EXCEPCIONES: Si por lo que sea no tienes ordenador, puede ser que se pu
 
 Se permite jugar **con mando**.
 
+# Preguntas comunes (FAQ)
+
+- ¿Tengo que crearne cuenta online para jugar?
+No, no sera necesario. Elige la cuenta local y listo (la llamada "offline account" o "cuenta fuera de linea")
+
+---
+
 ## Hacer network test (Ignora esto si eres un participante)
 
 1. Abrir servidor: ```supertuxkart --server-config=config_24p.xml --lan-server="San Alberto 2026" --network-console```
