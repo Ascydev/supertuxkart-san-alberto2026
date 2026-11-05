@@ -1,5 +1,3 @@
-<img src="./cartel/supertuxkart_img.jpg" alt="" style="width:50%; height:auto;">
-
 # INFO IMPORTANTE PARA PARTICIPANTES
 
 **Es importantisimo que cada jugador se lleve su propio PC para jugar al juego.** El juego esta disponible para Linux, Windows y MacOS en https://supertuxkart.net/es/Download
@@ -16,6 +14,10 @@ Las reglas completas del torneo estan [aqui](https://github.com/Ascydev/supertux
 
 - ¿Tengo que crearne cuenta online para jugar?<br>
 No, no sera necesario. Elige la cuenta local y listo (la llamada "offline account" o "cuenta fuera de linea")
+
+---
+
+<img src="./cartel/supertuxkart_img.jpg" alt="" style="width:50%; height:auto;">
 
 ---
 
