@@ -12,7 +12,7 @@ Las reglas completas del torneo estan [aqui](https://github.com/Ascydev/supertux
 
 # Preguntas comunes (FAQ)
 
-- ¿Tengo que crearne cuenta online para jugar?<br>
+- **¿Tengo que crearne cuenta online para jugar?** <br>
 No, no sera necesario. Elige la cuenta local y listo (la llamada "offline account" o "cuenta fuera de linea")
 
 ---
