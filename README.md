@@ -8,6 +8,8 @@ POSIBLES EXCEPCIONES: Si por lo que sea no tienes ordenador, puede ser que se pu
 
 Se permite jugar **con mando**.
 
+Las reglas completas del torneo estan [aqui](https://github.com/Ascydev/supertuxkart-san-alberto2026/blob/main/REGLAS%20SuperTuxKart.md)
+
 # Preguntas comunes (FAQ)
 
 - ¿Tengo que crearne cuenta online para jugar?
