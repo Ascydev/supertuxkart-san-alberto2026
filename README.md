@@ -1,3 +1,5 @@
+<img src="./cartel/supertuxkart_img.jpg" alt="" style="width:50%; height:auto;">
+
 # INFO IMPORTANTE PARA PARTICIPANTES
 
 **Es importantisimo que cada jugador se lleve su propio PC para jugar al juego.** El juego esta disponible para Linux, Windows y MacOS en https://supertuxkart.net/es/Download
