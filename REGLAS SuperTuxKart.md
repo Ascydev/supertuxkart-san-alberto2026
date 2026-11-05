@@ -5,13 +5,12 @@
 - Organizador/a responsable: [Nombre Legal Aqui] // (No puesto aqui porque se sube a un github publico)
 - Contacto: [Correo Completo Aqui] // (No puesto aqui porque se sube a un github publico)
 - Fecha: Dia de San Alberto
-- Horario: *POR CONFIRMAR*
+- Horario: 11:00 - 12:00
 - Lugar: Aula *POR CONFIRMAR*
 - Modalidad: Individual
 - Completamente presencial
 - Cupo: 22 (El organizador tiene que participar en el torneo para administrar las partidas, lo cual hace un total maximo de 23 jugadores.)
-- Inscripción: [Enlace al formulario], cierra el [fecha]
-- Coste: 1€
+- Coste: 1€ (Como el resto de torneos)
 
 ## REQUISITOS IMPORTANTES DE LOS PARTICIPANTES
 
